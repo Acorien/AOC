@@ -1,0 +1,15 @@
+# Zig cache and build output
+zig-cache/
+zig-out/
+
+# Compiled binaries (Windows)
+*.exe
+*.pdb
+*.obj
+*.lib
+
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.swp
